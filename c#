@@ -1,3 +1,4 @@
 
 console.writeline("Hello world");
 
+double angeEttTal=double.Parse(Console.Readline());
